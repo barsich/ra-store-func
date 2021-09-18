@@ -1,1 +1,2 @@
-# ra-store-func
+# ra-store-func [![Build status](https://ci.appveyor.com/api/projects/status/hmnlvnqv9p3ida5g?svg=true)](https://ci.appveyor.com/project/barsich/ra-store-func)
+[GithubPages](https://barsich.github.io/ra-store-func/)
